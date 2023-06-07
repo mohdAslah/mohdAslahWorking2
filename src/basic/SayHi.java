@@ -15,7 +15,9 @@ public class SayHi {
 		System.out.print("Sum is git practice ");
 		System.out.print("Sum is git practice2 ");
 
+		System.out.print("Sum is git practice3 ");
 
+		System.out.print("Sum is git practice3 ");
 	}
 
 }
