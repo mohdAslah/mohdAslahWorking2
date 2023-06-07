@@ -11,7 +11,10 @@ public class SayHi {
 		 int c= a + b;
 		 
 		System.out.print("Sum is "+c);
-		
+
+		System.out.print("Sum is git practice ");
+		System.out.print("Sum is git practice2 ");
+
 
 	}
 
